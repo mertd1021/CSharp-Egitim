@@ -43,7 +43,7 @@ namespace C__01
 
             //customerName = "Mert";
             //customerSurname = "Demirbaş";
-            //customerPhone = "+90 0530 074 20 03";
+            //customerPhone = "+90 0550 550 50 50";
             //customerEmail = "mert36.demirbas@gmail.com";
             //district = "Sancaktepe";
             //city = "İstanbul";
